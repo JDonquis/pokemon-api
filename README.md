@@ -27,8 +27,8 @@ npm run dev
 
 ## Tecnologías utilizadas
 
-- React 18
-- React Router 6
+- React 19
+- React Router 7
 - Tailwind CSS 4
 - Axios
-- Vite (como bundler)
+- Vite 
