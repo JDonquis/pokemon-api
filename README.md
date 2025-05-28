@@ -22,7 +22,7 @@ npm install
 3. Corre la apliación con el siguiente comando:
 
 ```bash
-npm install
+npm run dev
 ```
 
 ## Tecnologías utilizadas
