@@ -19,6 +19,12 @@ cd pokemon-api
 ```bash
 npm install
 ```
+3. Corre la apliación con el siguiente comando:
+
+```bash
+npm install
+```
+
 ## Tecnologías utilizadas
 
 - React 18
